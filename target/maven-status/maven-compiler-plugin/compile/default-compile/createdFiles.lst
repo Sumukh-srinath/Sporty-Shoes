@@ -1,0 +1,9 @@
+com\example\SportyShoes\controllers\LoginController.class
+com\example\SportyShoes\entities\Product.class
+com\example\SportyShoes\entities\User.class
+com\example\SportyShoes\repositories\OrderRepository.class
+com\example\SportyShoes\repositories\ProductRepository.class
+com\example\SportyShoes\SportyShoesApplication.class
+com\example\SportyShoes\repositories\UserRepository.class
+com\example\SportyShoes\services\UserService.class
+com\example\SportyShoes\entities\Order.class
